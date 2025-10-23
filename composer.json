@@ -1,5 +1,5 @@
 {
-    "name": "oprotsiuk/rest-api-sdk-php",
+    "name": "paypal/rest-api-sdk-php",
     "description": "Fork of PayPal's PHP SDK for REST APIs with expanded PSR/log version compatibility",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
